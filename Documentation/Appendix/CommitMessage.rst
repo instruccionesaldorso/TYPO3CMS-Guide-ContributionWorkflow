@@ -345,7 +345,7 @@ should have been:
 
 .. code-block:: none
 
-   [TASK] Revert "[FEATURE] introduce YAML "imports""
+   [TASK] Revert "[FEATURE] Introduce YAML "imports""
 
 .. note::
 
